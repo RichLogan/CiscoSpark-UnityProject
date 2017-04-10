@@ -1,4 +1,3 @@
 [submodule "SparkUnity/Assets/Spark"]
 	path = SparkUnity/Assets/Spark
 	url = git@github.com:RichLogan/CiscoSpark-UnitySDK.git
-	branch = to-submodule
